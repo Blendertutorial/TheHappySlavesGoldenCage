@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4517"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Footprint-Penguine.svg">
+  <defs
+     id="defs4511">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4527"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="400"
+     inkscape:cy="605.71429"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="55.5625,149.225"
+       orientation="0,1"
+       id="guide4529"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="118.53333,184.15001"
+       orientation="1,0"
+       id="guide4531"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="79.374998,213.78334"
+       orientation="1,0"
+       id="guide4533"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="39.158332,200.55417"
+       orientation="0,1"
+       id="guide4535"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="54.504165,100.0125"
+       orientation="0,1"
+       id="guide4537"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4514">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.37636831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.563763,148.24535 c -0.268654,-16.7571 51.128007,-34.27841 70.412268,-36.83611 19.284259,-2.55771 6.456879,9.84783 6.569259,18.60903 0.11238,8.7612 13.1648,13.87635 13.33271,18.99144 0.16792,5.1151 -12.54921,10.23038 -12.3928,18.22709 0.1564,7.99672 13.18533,18.87339 -6.26685,16.31576 -19.452177,-2.55763 -71.385933,-18.5501 -71.654587,-35.30721 z"
+       id="path4525"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect4527"
+       inkscape:original-d="M -23.102108,149.00975 C 28.295055,131.48809 79.691716,113.96678 131.08786,96.445822 118.26029,108.85153 105.4329,121.25706 92.604164,133.66391 c 13.053626,5.11525 26.106046,10.23039 39.158326,15.34584 -12.71663,5.11492 -25.43375,10.2302 -38.151352,15.34583 13.030702,10.87765 26.059632,21.75432 39.089092,32.63191 C 80.766271,180.99461 28.832515,165.00214 -23.102108,149.00975 Z"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>
