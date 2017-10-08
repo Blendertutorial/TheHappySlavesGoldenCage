@@ -10,4 +10,4 @@ Hierfür plane ich eine möglichst photorealistisch wirkende Darstellung.
 weitere Ideen
 -------------
 
-Ich habe ein [Storyboard](Storyboard.odg) für eine kleine Videosequenz erstellt. Mithilfe ist natürlich willkommen.
+Ich habe ein [Storyboard](Storyboard.pdf) für eine kleine Videosequenz erstellt. Mithilfe ist natürlich willkommen.
