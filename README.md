@@ -10,4 +10,10 @@ Hierfür plane ich eine möglichst photorealistisch wirkende Darstellung.
 weitere Ideen
 -------------
 
+### Storyboard ###
 Ich habe ein [Storyboard](Storyboard.pdf) für eine kleine Videosequenz erstellt. Mithilfe ist natürlich willkommen.
+
+![Szene1](Scene1-Draft.png)
+![Szene2](Scene2-Draft.png)
+![Szene3](Scene3-Draft.png)
+
