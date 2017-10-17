@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497474"
-     inkscape:cx="327.27431"
-     inkscape:cy="718.50378"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="463.71044"
+     inkscape:cy="918.85408"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -119,6 +119,11 @@
        orientation="0,1"
        id="guide4519"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="66.817381,130.02663"
+       orientation="1,0"
+       id="guide4525"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -137,14 +142,48 @@
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline">
-    <rect
-       style="fill:#5555ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4500"
-       width="202.05577"
-       height="241.0771"
-       x="5.8799295"
-       y="7.2798281" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4501"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,10.690781,12.294398)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion4503"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#f2f2f2;fill-opacity:1"><rect
+           id="rect4505"
+           width="1387.6913"
+           height="161.27779"
+           x="22.223356"
+           y="27.514311"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#f2f2f2;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4507"
+         style="font-size:74.66666412px">Highway to immaturity</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4509"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,43.661814,-18.142857)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion4511"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#f2f2f2;fill-opacity:1"><rect
+           id="rect4513"
+           width="918.43085"
+           height="469.05746"
+           x="569.72607"
+           y="393.18954"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#f2f2f2;fill-opacity:1"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara4515"
+         style="font-size:64px;fill:#f2f2f2;fill-opacity:1">Symposium Datenspuren</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f2f2f2;fill-opacity:1"
+         id="flowPara4519">- erstens</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f2f2f2;fill-opacity:1"
+         id="flowPara4521">- zweitens</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f2f2f2;fill-opacity:1"
+         id="flowPara4523">- drittens</flowPara><flowPara
+         id="flowPara4517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f2f2f2;fill-opacity:1" /></flowRoot>  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -152,9 +191,11 @@
      style="display:inline">
     <path
        style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 46.331806,234.64505 H 66.742525 V 160.7412 c 0,-35.22299 54.530405,-30.25012 79.854805,-30.25012 v 10.02261 L 176.39788,119.93878 146.59733,100.558 v 10.01637 c 0,0 -80.122075,-4.27631 -79.610455,15.90673 0,0 0.0502,-66.175446 -0.24435,-46.05036 0,2.2e-5 9.83019,0 9.83019,0 L 56.348175,52.460521 36.482287,80.43076 h 9.849519 z"
+       d="M 46.331806,234.64505 H 66.742525 V 160.7412 c 0,-35.22299 49.084085,-37.71793 74.408485,-37.71793 v 10.02261 l 29.80055,-20.57491 -29.80055,-19.380779 v 10.016369 c 0,0 -68.061172,1.39889 -74.542111,20.07003 0,0 0.239188,-29.042067 0.133626,-42.74585 0,-2.2e-5 9.83019,0 9.83019,0 L 56.348175,52.460521 36.482287,80.43076 h 9.849519 z"
        id="path4507"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccscccccssccccc" />
+       sodipodi:nodetypes="ccscccccssccccc"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>
