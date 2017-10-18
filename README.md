@@ -1,4 +1,5 @@
-# The "happy slave's" "golden cage"
+The "happy slave's" "golden cage"
+=================================
 
 Mit dieser Arbeit möchte ich mich mit dem Verhältnis zwischen Bequemlichkeit und Selbstbestimmung auseinander setzen.
 
