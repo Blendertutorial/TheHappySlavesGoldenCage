@@ -7,10 +7,10 @@ Die Datei "TheHappySlavesGoldenCage.blend" enthält die Blenderprojekt-Hauptdate
 Voraussetzungen
 ---------------
 
-Zum Anzeigen des Visdeoclips genügt ein einfacher Videoplayer, für die optionale Webanwendung ein einigermaßen moderner Webbrowser (WebGL1 + Java-Script benötigt). Zum Bearbeiten wird zudem noch folgendes benötigt:
+Zum Anzeigen des Videoclips genügt ein einfacher Videoplayer, für die optionale Webanwendung ein einigermaßen moderner Webbrowser (WebGL1 + Java-Script benötigt). Zum Bearbeiten wird zudem noch folgendes benötigt:
 
 * Blender 2.79
-* Blend4Web 17.08
+* Blend4Web 17.12
 
 
 Hinweise

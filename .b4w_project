@@ -1,5 +1,5 @@
 [info]
-author = Nos
+author = Nos-
 icon = 
 name = TheHappySlavesGoldenCage
 title = The happy slaves golden cage
@@ -7,7 +7,7 @@ title = The happy slaves golden cage
 [paths]
 assets_dirs = projects/TheHappySlavesGoldenCage/assets;
 blend_dirs = projects/TheHappySlavesGoldenCage/blender;
-blender_exec = /home/norman/Install/blender-2.79/blender
+blender_exec = /home/norman/bin/blender-2.79/blender
 build_dir = projects/TheHappySlavesGoldenCage/build
 deploy_dir = 
 
